@@ -8,7 +8,7 @@ Se creo una aplicación web que permite validar si una contraseña es insegura o
 
 2. Al dar click al boton evaluar, este envia la información otra función mediante el método POST para hacer la evaluación de la contraseña
 
-![alt text](image2.png)
+![alt text](image1.png)
 
 3. Se validan las peticiones GET y POST realizadas
 
